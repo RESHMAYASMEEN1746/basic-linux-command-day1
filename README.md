@@ -5,6 +5,7 @@
 - ls (list of files)
 - rm (remove)
 - mkdir (create a directory or folder)
+- rmdir (remove a directory)
 - touch (create a new file)
 - nano (edit a file)
 - cat (file discription)
