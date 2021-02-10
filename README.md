@@ -36,19 +36,19 @@
 - git log --oneline
   - it will gives your commited history in single line
 - git revert filename
-   - it will undo the changes
+     - it will undo the changes
 - git reset filename
-   - it resets file name & file referances
+    - it resets file name & file referances
 - git rm filename
-    it removes the filename
+    - it removes the filename
 - git config user.name "username"
-  -to set your username 
+  - to set your username 
 - git config user.email "user email" 
  to set your email
  
-- git commit -m "message"
-to commit your changes along with the messages
+ - git commit -m "message"
+  -  to commit your changes along with the messages
 - git push remotename branchname
-  -to push your files(send the files for local system to githup server)
+  - to push your files(send the files for local system to githup server)
 - git pull remotename branchname
-  -to receive githup files from repo to local system
+  - to receive githup files from repo to local system
